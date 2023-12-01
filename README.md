@@ -1,2 +1,3 @@
 # adt.py
-An attempt to simplify ADT definition in Python.
+
+Exercises of defining ADTs in Python.
